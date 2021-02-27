@@ -1,6 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://Plamen:admin123@socialnetwork.c5cr2.mongodb.net/socialnetwork?retryWrites=true&w=majority",
-    "jwtsecret": "verysecretwow",
-    "githubClientId": "e6185e1507294972cd59",
-    "githubSecret": "e42a54fdc80a4487ccc2ef91875399ba4c76a57c"
+    "mongoURI": "mongodb+srv://<USERNAME>:<PASSWORD>@<DBNAME>.c5cr2.mongodb.net/DBNAME?retryWrites=true&w=majority",
+    "jwtsecret": "INSERT YOUR SECRET HERE",
+    "githubClientId": "github ID",
+    "githubSecret": "github secret"
 }
